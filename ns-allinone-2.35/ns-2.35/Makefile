@@ -261,6 +261,7 @@ OBJ_CC = \
 	mac/wireless-phyExt.o \
 	mac/mac-timers.o trace/cmu-trace.o mac/varp.o \
 	mac/mac-simple.o \
+	mac/esmac.o \
 	satellite/sat-hdlc.o \
 	dsdv/dsdv.o dsdv/rtable.o queue/rtqueue.o \
 	routing/rttable.o \
